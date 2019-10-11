@@ -1,7 +1,7 @@
 # IT Challenge 2019 game
 Group D task for Ventspils IT challenge 2019 by "Big Brain Time"
 
-Game only works on 16:9 resolution.
+Game is made for 16:9 resolution.
 Exit button only works, when exported as an application.
 
 Every song, except main menu, and sound effects on curing and potion creation by Eduards Otomers.
