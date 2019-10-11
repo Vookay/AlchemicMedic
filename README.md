@@ -1,6 +1,8 @@
 # IT Challenge 2019 game
 Group D task for Ventspils IT challenge 2019 by "Big Brain Time"
 
+Run AlchemicMedic scene to play the game.
+
 Game is made for 16:9 resolution.
 Exit button only works, when exported as an application.
 
